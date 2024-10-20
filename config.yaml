@@ -6,6 +6,6 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/victoriametrics/victoria-metrics:v1.91.3
+  - docker.io/library/neo4j:5.24-community
  # - docker.io/quay.io/jacksontj/promxy
  # - jimmidyson/configmap-reload:v0.1
