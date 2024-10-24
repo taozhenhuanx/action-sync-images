@@ -6,6 +6,6 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/elastic/rally:2.10.0
+  - docker.io/library/mysql:5.7.34
  # - docker.io/quay.io/jacksontj/promxy
  # - jimmidyson/configmap-reload:v0.1
