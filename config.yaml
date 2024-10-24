@@ -6,6 +6,6 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/library/neo4j:5.24-community
+  - docker.io/elastic/rally:2.10.0
  # - docker.io/quay.io/jacksontj/promxy
  # - jimmidyson/configmap-reload:v0.1
