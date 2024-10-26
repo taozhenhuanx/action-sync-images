@@ -7,5 +7,4 @@ kubernetes:
 
 images:
   - docker.io/centos:centos7.9.2009
- # - docker.io/quay.io/jacksontj/promxy
  # - jimmidyson/configmap-reload:v0.1
