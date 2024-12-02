@@ -6,6 +6,6 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/library/postgres:9.6.15
+  - docker.io/kubesphere/ks-installer:v3.3.2
  # - docker.io/quay.io/jacksontj/promxy
  # - jimmidyson/configmap-reload:v0.1
