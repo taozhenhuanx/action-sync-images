@@ -6,6 +6,9 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/kubesphere/ks-installer:v3.3.2
+  - docker.io/kubesphere/ks-apiserver:v3.3.2
+  - docker.io/kubesphere/ks-console:v3.3.2
+  - docker.io/kubesphere/ks-controller-manager:v3.3.2
+  - docker.io/library/redis:5.0.14-alpine
  # - docker.io/quay.io/jacksontj/promxy
  # - jimmidyson/configmap-reload:v0.1
