@@ -6,6 +6,7 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/library/postgres:9.6.15
+  - docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
+  - docker.io/flannel/flannel:v0.26.1
  # - docker.io/quay.io/jacksontj/promxy
  # - jimmidyson/configmap-reload:v0.1
