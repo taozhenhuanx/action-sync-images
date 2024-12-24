@@ -6,6 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/apache/skywalking-ui:10.1.0
-  - docker.io/apache/skywalking-oap-server:10.1.0
-  - docker.io/library/elasticsearch:7.17.25
+  - jenkins/jnlp-slave:4.13.3-1-jdk11
