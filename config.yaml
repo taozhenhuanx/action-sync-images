@@ -6,6 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/grafana/grafana:10.1.5
-  - ghcr.io/prometheus-operator/prometheus-config-reloader:v0.67.0
-  - docker.io/prom/prometheus:v2.48.0
+  - docker.io/milvusdb/milvus:v2.5.4
