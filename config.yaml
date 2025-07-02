@@ -6,4 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - ghcr.io/weblateorg/weblate:latest
+  - ghcr.io/weblateorg/weblate:5.12.2.0
