@@ -7,3 +7,4 @@ kubernetes:
 
 images:
   - ghcr.io/openclaw/openclaw:main-slim
+  # 
