@@ -6,5 +6,5 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - alpine/minio:RELEASE.2025-10-15T17-29-55Z
+  - registry.k8s.io/pause:3.6
   # #
